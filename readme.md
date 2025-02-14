@@ -60,7 +60,7 @@ um dieses Bauteil zu benutzen verwende / installiere bitte diese Library: Librar
 
 schau dir das Minimal-Beispiel an:
 
-```c++:./examples/GroveSerialBluetooth3.0_minimal/GroveSerialBluetooth3.0_minimal.ino
+```c++:./examples/GroveSerialBluetoothV3.0_minimal/GroveSerialBluetoothV3.0_minimal.ino
 // this should be overwritten with the content form the .ino file!
 ```
 
